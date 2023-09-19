@@ -17,8 +17,8 @@ class Rectangle():
     #       "A rectangle with width ____ and height ____"
 
     # YOUR CODE HERE
-    # def __str__(self):
-    #     return f"A rectange with width {self.width} and height {self.height}"
+    def __str__(self):
+        return f"A rectange with width {self.width} and height {self.height}"
 
 
 
